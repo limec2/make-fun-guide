@@ -1,8 +1,8 @@
 # Mulai dari Nol di make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/limec2/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/limec2/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 Panduan langkah demi langkah buat kamu yang baru pertama kali dengar make.fun dan mau ikut lomba membangun software pakai AI — dari daftar sampai klaim hadiah, tanpa pengalaman lomba sebelumnya.
 
